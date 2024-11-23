@@ -1,0 +1,14 @@
+Factura:
+Nombre: Cristiano Ronaldo
+Correo: elbicho@gmail.com
+Numero: 310 111 2222
+
+Productos:
+Producto: Secadora, Cantidad: 2, Precio Unitario: 1000000, Subtotal: 2000000
+Producto: Refrigerador, Cantidad: 5, Precio Unitario: 1600000, Subtotal: 8000000
+
+IVA: 1900000.0
+Valor sin IVA: 10000000
+Valor con IVA: 11900000.0
+
+Enviando factura a correo...
